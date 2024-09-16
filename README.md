@@ -32,13 +32,14 @@ No more guesswork – Mausam helps you stay prepared and make smart decisions, r
 | `q` | `string` | **Required**. City Name |
 
 
-
+## Download Android File
+[Download APK](https://github.com/Tanmay-Panday/Weather-Android-App/raw/main/Mausam/app/release/app-release.apk)
 
 ## Architechture
 ![Workflow diagram](Architechture/Architerchture%20image.png)
 This is the Workflow of the application.
 
-
-
-## Download Android File
-[Download APK](https://github.com/Tanmay-Panday/Weather-Android-App/raw/main/Mausam/app/release/app-release.apk)
+## SCREENSHOTS
+![Screenshot 1](Screenshots/ss1.jpg)
+![Screenshot 2](Screenshots/ss2.jpg)
+![Screenshot 3](Screenshots/ss3.jpg) 
